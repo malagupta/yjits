@@ -1,0 +1,22 @@
+[
+  {
+    "sessionTitle": "Java 30",
+    "sessionAbstract": "Hello",
+    "mainSpeakerModerator": {
+      "shirtSize": "Large",
+      "uniqueId": "442c0a45-a41c-4ead-9b8d-1f0535e87021",
+      "firstName": "Donald",
+      "lastName": "Duck"
+    }
+  },
+  {
+    "sessionTitle": "Refactor",
+    "sessionAbstract": "Hello Hello",
+    "mainSpeakerModerator": {
+      "shirtSize": "M",
+      "uniqueId": "ff1d5de5-d7a8-403e-a0ec-00136eea1fdb",
+      "firstName": "C",
+      "lastName": "G"
+    }
+  }
+]
